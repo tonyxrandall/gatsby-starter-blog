@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Sample',
-    author: 'AXRX',
-    description: 'A starter blog demonstrating what Gatsby can do.',
+    title: 'Mitch',
+    author: 'Mitch Cruickshank',
+    description: 'HTML/CSS',
     siteUrl: 'https://420.gatsbyjs.com',
   },
   pathPrefix: '/gatsby-starter-blog',
